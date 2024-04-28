@@ -51,7 +51,4 @@ Select two variables from the data set and provide an analysis of how correlated
 ![Project](img/Project.png)
 
 ***
-
-```bash
-$ python script.py
-```
+## End
